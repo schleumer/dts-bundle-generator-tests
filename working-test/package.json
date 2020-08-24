@@ -1,0 +1,20 @@
+{
+  "name": "working-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.8.3",
+    "cheerio": "1.0.0-rc.2",
+    "ramda": "0.25.0",
+    "dts-bundle-generator": "3.0.0",
+    "typescript": "3.4.3",
+    "@types/ramda": "0.26.7",
+    "@types/cheerio": "0.22.11"
+  }
+}

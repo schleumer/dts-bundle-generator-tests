@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "declarationDir": "./dist/graal",
+      "target": "es2018",
+      "module": "none",
+      "declaration": true,
+      "outDir": "./dist/graal"
+    }
+  }

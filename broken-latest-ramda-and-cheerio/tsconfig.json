@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "declarationDir": "./dist",
+      "target": "es2018",
+      "module": "none",
+      "declaration": true,
+      "outDir": "./dist",
+      "moduleResolution": "node"
+    }
+  }
